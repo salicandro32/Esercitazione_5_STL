@@ -1,7 +1,0 @@
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/CMakeFiles/TriangularMesh.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/CMakeFiles/rebuild_cache.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/src/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/src/CMakeFiles/rebuild_cache.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/ExportParaview/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Exercise_1_final_lavorare/Debug/ExportParaview/CMakeFiles/rebuild_cache.dir
